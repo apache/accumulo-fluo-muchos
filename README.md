@@ -2,6 +2,8 @@
 ---
 [![Build Status][ci]][ga] [![Apache License][li]][ll]
 
+**NOTE: This repository is deprecated. Consider using a cluster management tool like Terraform to deploy a test cluster**
+
 **Muchos automates setting up [Apache Accumulo][accumulo] or [Apache Fluo][fluo] (and their dependencies) on a cluster**
 
 Muchos makes it easy to launch a cluster in Amazon's EC2 or Microsoft Azure and deploy Accumulo or Fluo to it. Muchos
